@@ -1,4 +1,4 @@
-# newbie-git-seminar-2024f
+# newbie-git-seminar
 Newbie Git seminar 과제입니다.
 깃에 자기 자신만의 프로필을 만들어서 올려봅시다!
 
