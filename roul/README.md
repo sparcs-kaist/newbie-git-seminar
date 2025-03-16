@@ -9,7 +9,7 @@
 + 04년생 23학번
 + 사는 곳 : 인천
 + instagram : [cm1320](https://www.instagram.com/cm1320/)
-+ MBTI : 나 뭐였지..
++ MBTI : ISTP
 
 ## 전공
 전산학부이고, 현재는 미휴학 파견에 나와있습니다.
