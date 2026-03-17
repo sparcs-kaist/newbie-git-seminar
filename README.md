@@ -17,7 +17,7 @@ Newbie Git seminar 과제입니다.
     - 간단한 자기 소개 페이지를 만들어봅시다.
 - [ ] **PR 만들기**
     - dev 브랜치에 통합될 수 있도록 PR을 생성합니다.
-    - Assignee는 자기 자신, Reviewer는 Roul로 해주시면 됩니다.
+    - Assignee는 자기 자신, Reviewer는 kwabang으로 해주시면 됩니다.
     - 그 외에 올바르게 tag와 다른 항목들을 연결해주면 됩니다.
 - [ ] **LGTM! 받기**
     - 연사가 확인 후 문제 없다면 LGTM :+1:을 올려드릴 예정입니다. 그 이후에 merge를 하시면 됩니다!
