@@ -8,6 +8,7 @@ Newbie Git seminar 과제입니다.
 
 - [ ] **Issue를 생성하기**
     - 개발해야 할 사항이나, 문제 상황을 Issue를 통해 설명합니다. Issue는 자기 자신에게 할당하면 됩니다.
+    - 이 과제의 경우에는 자기소개를 만들어야 한다는 것이 Issue입니다.
 - [ ] **Branch 생성하기**
     - 자신이 작업할 Branch를 생성합니다.
 - [ ] **Issue와 Branch 연결하기**
@@ -16,7 +17,7 @@ Newbie Git seminar 과제입니다.
     - 자기 닉네임으로 폴더를 생성한 후 안에 README.md를 작성합니다
     - 간단한 자기 소개 페이지를 만들어봅시다.
 - [ ] **PR 만들기**
-    - dev 브랜치에 통합될 수 있도록 PR을 생성합니다.
+    - main 브랜치에 통합될 수 있도록 PR을 생성합니다.
     - Assignee는 자기 자신, Reviewer는 cipher-sparcs으로 해주시면 됩니다.
     - 그 외에 올바르게 tag와 다른 항목들을 연결해주면 됩니다.
 - [ ] **LGTM! 받기**
